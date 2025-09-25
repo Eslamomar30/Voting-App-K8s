@@ -1,4 +1,4 @@
-📌 Project Description: Voting App on Minikube (Kubernetes)
+ Project Description: Voting App on Minikube (Kubernetes)
 
 This project showcases the deployment of a containerized microservices voting application on a Minikube Kubernetes cluster using declarative YAML manifests.
 
@@ -16,7 +16,7 @@ db-deployment.yaml → PostgreSQL database for persistent vote storage.
 
 ingress.yaml → NGINX Ingress configuration to expose services externally.
 
-⚙️ Implementation Details:
+ Implementation Details:
 
 Deployed all services on Minikube using kubectl apply -f *.yaml.
 
@@ -32,7 +32,7 @@ Verified Pod communication with environment variables and debugging (kubectl exe
 
 Solved common issues such as 500 Internal Server Error caused by DB connection.
 
-🚀 Outcome:
+Outcome:
 
 Successfully deployed and tested the Voting App end-to-end on Minikube.
 

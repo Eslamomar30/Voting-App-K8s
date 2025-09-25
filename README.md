@@ -2,7 +2,7 @@
 
 This project showcases the deployment of a containerized microservices voting application on a Minikube Kubernetes cluster using declarative YAML manifests.
 
-🛠️ Components & YAML Files:
+ Components & YAML Files:
 
 vote-deployment.yaml → Python frontend app for voting.
 
